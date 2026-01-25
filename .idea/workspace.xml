@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ccbed31-b5eb-4666-a28d-420e44e208fe" name="Changes" comment="adding basic rest assured programs for beginners">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiexamples/Delete_APIExampleBooking_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiexamples/Extract_ResposneAs_String_API_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiexamples/GetAPIExampleBooking_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiexamples/PostAPIExample_with_BDDFormat_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiexamples/PostAPIExample_with_MethodChaning_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiexamples/PostAPIExample_with_RequestSpecification_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiexamples/Put_And_Patch_APIExampleBooking_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/apiexamples/RequstSpec_Commonsteps_Separate_API_8.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="38gzsiaYFfCHQbYbKKeiFBWbzZe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/RestAssuredAPIExamples-2026/RestAssuredPracticeExample/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="apiexamples" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Extract_ResposneAs_String_API_7.test_resposne_extract_into_string (2)">
+    <configuration name="Delete_APIExampleBooking_6.test8_deleteresource" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredPracticeExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiexamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apiexamples" />
+      <option name="MAIN_CLASS_NAME" value="apiexamples.Delete_APIExampleBooking_6" />
+      <option name="METHOD_NAME" value="test8_deleteresource" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Extract_ResposneAs_String_API_7.test_resposne_extract_into_string (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredPracticeExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiexamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apiexamples" />
+      <option name="MAIN_CLASS_NAME" value="apiexamples.Extract_ResposneAs_String_API_7" />
+      <option name="METHOD_NAME" value="test_resposne_extract_into_string" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Extract_ResposneAs_String_API_7.test_resposne_extract_into_string (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredPracticeExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiexamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apiexamples" />
+      <option name="MAIN_CLASS_NAME" value="apiexamples.Extract_ResposneAs_String_API_7" />
+      <option name="METHOD_NAME" value="test_resposne_extract_into_string" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Extract_ResposneAs_String_API_7.test_resposne_extract_into_string" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredPracticeExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiexamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apiexamples" />
+      <option name="MAIN_CLASS_NAME" value="apiexamples.Extract_ResposneAs_String_API_7" />
+      <option name="METHOD_NAME" value="test_resposne_extract_into_string" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Put_And_Patch_APIExampleBooking_5.test_putexample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredPracticeExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiexamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apiexamples" />
+      <option name="MAIN_CLASS_NAME" value="apiexamples.Put_And_Patch_APIExampleBooking_5" />
+      <option name="METHOD_NAME" value="test_putexample" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Extract_ResposneAs_String_API_7.test_resposne_extract_into_string (2)" />
+        <item itemvalue="TestNG.Extract_ResposneAs_String_API_7.test_resposne_extract_into_string (1)" />
+        <item itemvalue="TestNG.Extract_ResposneAs_String_API_7.test_resposne_extract_into_string" />
+        <item itemvalue="TestNG.Delete_APIExampleBooking_6.test8_deleteresource" />
+        <item itemvalue="TestNG.Put_And_Patch_APIExampleBooking_5.test_putexample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ccbed31-b5eb-4666-a28d-420e44e208fe" name="Changes" comment="" />
+      <created>1769236211966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769236211966</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding basic rest assured programs for beginners" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding basic rest assured programs for beginners" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
