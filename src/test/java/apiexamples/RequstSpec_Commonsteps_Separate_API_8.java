@@ -2,10 +2,16 @@ package apiexamples;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class RequstSpec_Commonsteps_Separate_API_8 {
 
+    @BeforeTest
+    public  void beforetest()
+    {
+
+    }
    @Test
            public void test_resposne_extract_into_string() {
 
