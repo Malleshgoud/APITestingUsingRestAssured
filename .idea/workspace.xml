@@ -58,25 +58,7 @@
       <recent name="apiexamples" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Extract_ResposneAs_String_API_7.test_resposne_extract_into_string (2)">
-    <configuration name="Delete_APIExampleBooking_6.test8_deleteresource" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RestAssuredPracticeExample" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="apiexamples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="apiexamples" />
-      <option name="MAIN_CLASS_NAME" value="apiexamples.Delete_APIExampleBooking_6" />
-      <option name="METHOD_NAME" value="test8_deleteresource" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.RequstSpec_Commonsteps_Separate_API_8 (1)">
     <configuration name="Extract_ResposneAs_String_API_7.test_resposne_extract_into_string (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RestAssuredPracticeExample" />
       <extension name="coverage">
@@ -113,7 +95,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Extract_ResposneAs_String_API_7.test_resposne_extract_into_string" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="RequstSpec_Commonsteps_Separate_API_8 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RestAssuredPracticeExample" />
       <extension name="coverage">
         <pattern>
@@ -122,16 +104,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="apiexamples" />
-      <option name="MAIN_CLASS_NAME" value="apiexamples.Extract_ResposneAs_String_API_7" />
-      <option name="METHOD_NAME" value="test_resposne_extract_into_string" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="apiexamples.RequstSpec_Commonsteps_Separate_API_8" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Put_And_Patch_APIExampleBooking_5.test_putexample" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="RequstSpec_Commonsteps_Separate_API_8" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RestAssuredPracticeExample" />
       <extension name="coverage">
         <pattern>
@@ -140,8 +121,25 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="apiexamples" />
-      <option name="MAIN_CLASS_NAME" value="apiexamples.Put_And_Patch_APIExampleBooking_5" />
-      <option name="METHOD_NAME" value="test_putexample" />
+      <option name="MAIN_CLASS_NAME" value="apiexamples.RequstSpec_Commonsteps_Separate_API_8" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequstSpec_Commonsteps_Separate_API_8.update_booking" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredPracticeExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiexamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apiexamples" />
+      <option name="MAIN_CLASS_NAME" value="apiexamples.RequstSpec_Commonsteps_Separate_API_8" />
+      <option name="METHOD_NAME" value="update_booking" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -151,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.RequstSpec_Commonsteps_Separate_API_8 (1)" />
+        <item itemvalue="TestNG.RequstSpec_Commonsteps_Separate_API_8.update_booking" />
+        <item itemvalue="TestNG.RequstSpec_Commonsteps_Separate_API_8" />
         <item itemvalue="TestNG.Extract_ResposneAs_String_API_7.test_resposne_extract_into_string (2)" />
         <item itemvalue="TestNG.Extract_ResposneAs_String_API_7.test_resposne_extract_into_string (1)" />
-        <item itemvalue="TestNG.Extract_ResposneAs_String_API_7.test_resposne_extract_into_string" />
-        <item itemvalue="TestNG.Delete_APIExampleBooking_6.test8_deleteresource" />
-        <item itemvalue="TestNG.Put_And_Patch_APIExampleBooking_5.test_putexample" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +166,15 @@
       <option name="presentableId" value="Default" />
       <updated>1769236211966</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding basic rest assured programs for beginners">
+      <option name="closed" value="true" />
+      <created>1769321571545</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769321571545</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
