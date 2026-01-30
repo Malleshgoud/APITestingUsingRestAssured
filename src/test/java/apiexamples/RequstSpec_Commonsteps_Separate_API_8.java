@@ -3,6 +3,7 @@ package apiexamples;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.specification.RequestSpecification;
+import org.hamcrest.Matchers;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
@@ -57,7 +58,7 @@ public class RequstSpec_Commonsteps_Separate_API_8 {
     public void update_booking() {
 
 //Build request
-        String resposbody= RestAssured.given()
+     RestAssured.given()
                 .spec(reqspech)
                 .basePath("booking/1")
                 .body("{\n" +
@@ -76,12 +77,11 @@ public class RequstSpec_Commonsteps_Separate_API_8 {
                 .post()
                 //validate the response
                 .then()
-                .extract()
-                .body() //even if u commenst this u will get response it is default one we can get resposne with extract() method
-                //.asString();
-                .asPrettyString();
+                        .statusCode(200)
+             .contentType(ContentType.JSON)
+             .time(Matchers.lessThan(5000L));
 
-        System.out.println(resposbody);
+
 
     }
 
