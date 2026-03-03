@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ccbed31-b5eb-4666-a28d-420e44e208fe" name="Changes" comment="Reqspec code updated for multiple bookings">
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiexamples/ComplexRequestPayload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiexamples/ComplexResponseValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiexamples/HeadersExamples_API_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiexamples/JsonArrayAndJsonObjectExampe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiexamples/JsonPathExample_NestedJsonobjects_API_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiexamples/JsonPathExample_with_SOme_Exceptions_API_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiexamples/Request_ResponseSpec_Example_API_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiexamples/ResponseSpec_Commonsteps_Separate_API_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apiexamples/StaticMethods_Defauluts_Values_Example_API_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/payloads/user.json" afterDir="false" />
+    <list default="true" id="9ccbed31-b5eb-4666-a28d-420e44e208fe" name="Changes" comment="Added Complex Request and Response   handling and validate Repsonse susing JSOn Path ,Json Array,Json Object">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apiexamples/RequstSpec_Commonsteps_Separate_API_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiexamples/RequstSpec_Commonsteps_Separate_API_8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,13 +183,22 @@
       <option name="project" value="LOCAL" />
       <updated>1769403086029</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Complex Request and Response   handling and validate Repsonse susing JSOn Path ,Json Array,Json Object">
+      <option name="closed" value="true" />
+      <created>1769770186616</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1769770186616</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding basic rest assured programs for beginners" />
     <MESSAGE value="Reqspec code updated for multiple bookings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reqspec code updated for multiple bookings" />
+    <MESSAGE value="Added Complex Request and Response   handling and validate Repsonse susing JSOn Path ,Json Array,Json Object" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Complex Request and Response   handling and validate Repsonse susing JSOn Path ,Json Array,Json Object" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

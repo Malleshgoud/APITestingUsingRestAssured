@@ -13,7 +13,6 @@ public class PostAPIExample_with_BDDFormat_3 {
        RestAssured.
                given()
                .log().all()
-
                .baseUri("https://restful-booker.herokuapp.com/")
                .basePath("/booking")
                .body("{\r\n"
